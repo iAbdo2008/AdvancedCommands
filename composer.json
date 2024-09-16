@@ -1,0 +1,21 @@
+{
+    "name": "opinqzz/advancedcommands",
+    "description": "A Library Helps You in Implementing Commands Easily !",
+    "type": "library",
+    "require": {
+        "pocketmine/pocketmine-mp": "5.18.1"
+    },
+    "authors": [
+        {
+            "name": "oPinqz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {"classmap": ["src"]},
+    "extra": {
+        "virion": {
+            "spec": "3.0",
+            "namespace-root": "oPinqzz\\AdvancedCommands"
+        }
+    }
+}
