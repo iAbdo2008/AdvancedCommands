@@ -3,7 +3,6 @@
     "description": "A Library Helps You in Implementing Commands Easily !",
     "type": "library",
     "require": {
-        "pocketmine/pocketmine-mp": "5.18.1"
     },
     "authors": [
         {
